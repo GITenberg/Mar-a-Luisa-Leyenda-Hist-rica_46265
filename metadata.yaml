@@ -1,0 +1,25 @@
+_repo: Mar-a-Luisa-Leyenda-Hist-rica_46265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46265-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Portillo, Andrés
+    alias: Portillo, Andres
+    gutenberg_agent_id: '43685'
+    url: http://www.gutenberg.org/2009/agents/43685
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46265'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: María Luisa, Leyenda Histórica
+url: http://www.gutenberg.org/ebooks/46265
