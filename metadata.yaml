@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43685'
     url: http://www.gutenberg.org/2009/agents/43685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46265#Mar-a-Luisa-Leyenda-Hist-rica
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
